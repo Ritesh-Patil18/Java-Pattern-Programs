@@ -8,4 +8,4 @@ This is a Dynamic Swastik Pattern it little bit complex that :
 - Prints Perfect Swastik Using just by 6 Conditions in a Single if Statement!!
 
 ## Dynamic Trishul Pattern
-- Dynamuc Trishul pattern Using loops 
+- Dynamic Trishul pattern Using loops 
