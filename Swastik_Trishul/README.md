@@ -1,6 +1,6 @@
 # Swastik and Trishul Pattern Programs
 ## Swastik Pattern -- AI Challange!!
-This is a Dynamic Swastik Pattern it little bit complex that :
+This is a Dynamic Swastik Pattern it is little bit complex :
 - ChatGPT and Claude AI both failed to solve it.
 #### How it Works 
 - Takes Any number of input from user
